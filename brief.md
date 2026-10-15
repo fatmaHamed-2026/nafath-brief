@@ -31,7 +31,9 @@ Resource: Android Mobile App Architecture: Offline First - https://developer.and
 
 Resource: 3GPP TS 23.501, System architecture for the 5G System (5GS), http://www.3gpp.org/DynaReport/23501.htm
 ## Cybersecurity
+The incident response lifecycle consists of six primary phases: Preparation (establishing defenses and policies), Identification (detecting and analyzing anomalies), Containment (limiting the spread of the attack), Eradication (removing the threat vectors), Recovery (restoring systems securely to normal operations), and Lessons Learned (reviewing post-incident reports). When a 5G service is attacked, Identification flags the intrusion, Containment isolates the compromised slices, Eradication and Recovery restore clean operations, and Lessons Learned harden the network against future threats.
 
+Resource: NIST SP 800-61 Rev. 2 - Computer Security Incident Handling Guide - https://csrc.nist.gov/pubs/sp/800/61/r2/final
 
 ## Data
 
