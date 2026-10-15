@@ -15,7 +15,10 @@ Resource: <RFC 9110, sections 9.2.1 and 9.2.2> - <[full URL](https://www.rfc-edi
 
 
 ## AI
-
+Overfitting happens when a model memorizes noise in the training data as if it were a real pattern, so it performs poorly on new data. A common sign is training performance that keeps improving while validation performance stalls or drops. Cross-validation helps by repeating training and validation across several data partitions, which gives a more reliable estimate of performance. For a congestion prediction model, this makes it more likely to cope with sudden, unseen emergency traffic surges, though never guaranteed.
+Resource: <Overfitting and the Train/Validation/Test Split – KodeKloud Notes> - <[(https://notes.kodekloud.com/docs/Machine-Learning-Fundamentals/Generalisation-and-Types-of-Learning/Overfitting-and-the-TrainValidationTest-Split/page.md)]>
+Resource: <Prevent Overfitting in Model Training – Pluralsight> - <([(https://pluralsight.com/courses/prevent-overfitting-model-training)]>
+Resource: <Machine Learning Crash Course – Google for Developers (the course index, for the overfitting module)> - <[https://developers.google.cn/machine-learning/crash-course?authuser=1]>
 
 ## Mobile
 
