@@ -42,6 +42,13 @@ Resource: The Data Warehouse Toolkit by Ralph Kimball (Summary Overview) - https
 
 
 ## Misconception in My Track
+Misconception: A 5G network slice is a separate physical network built just for emergency responders.
 
+Correct version: A slice instance is defined within the operator’s existing network (PLMN) and consists of core control-plane and user-plane functions plus the access network components serving it. Operators can dedicate a slice to a specific customer with a committed service level.
+
+Proof: 3GPP TS 23.501, clause 5.15.1 “General” (under 5.15 Network slicing).
+
+3rd Generation Partnership Project. (n.d.). System architecture for the 5G system (5GS) (3GPP TS 23.501). http://www.3gpp.org/DynaReport/23501.htm
 
 ## Open Question
+
