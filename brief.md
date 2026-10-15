@@ -36,6 +36,9 @@ The incident response lifecycle consists of six primary phases: Preparation (est
 Resource: NIST SP 800-61 Rev. 2 - Computer Security Incident Handling Guide - https://csrc.nist.gov/pubs/sp/800/61/r2/final
 
 ## Data
+Star schemas feature a central fact table surrounded by denormalized dimension tables joined directly, offering fast read performance for analytical queries. Snowflake schemas normalize dimension tables into multiple sub-tables, saving storage but requiring complex multi-joins. For daily regional 5G service usage reports, a star schema is ideal because it optimizes query speed and simplifies aggregation for project managers reviewing performance metrics.
+
+Resource: The Data Warehouse Toolkit by Ralph Kimball (Summary Overview) - https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling/
 
 
 ## Misconception in My Track
