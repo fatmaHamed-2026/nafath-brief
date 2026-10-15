@@ -51,4 +51,4 @@ Proof: 3GPP TS 23.501, clause 5.15.1 “General” (under 5.15 Network slicing).
 3rd Generation Partnership Project. (n.d.). System architecture for the 5G system (5GS) (3GPP TS 23.501). http://www.3gpp.org/DynaReport/23501.htm
 
 ## Open Question
-
+How can Omani MNOs dynamically enforce RAN resource isolation and preemption mechanisms for dedicated emergency 5G network slices across rugged topographies, ensuring strict SLA compliance and deterministic low latency during localized congestion?
