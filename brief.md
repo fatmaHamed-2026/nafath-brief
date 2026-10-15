@@ -21,7 +21,9 @@ Resource: <Prevent Overfitting in Model Training – Pluralsight> - <([(https://
 Resource: <Machine Learning Crash Course – Google for Developers (the course index, for the overfitting module)> - <[https://developers.google.cn/machine-learning/crash-course?authuser=1]>
 
 ## Mobile
+When first responders lose cellular coverage, the mobile app must maintain seamless usability by storing critical reports locally using an encrypted database such as Room or SQLite. Outgoing requests should be safely queued with clear UI offline feedback. Once connectivity returns, background processes systematically push synced records using exponential backoff retry logic, while timestamps and server-side reconciliation resolve any data conflicts to maintain system integrity.
 
+Resource: Android Mobile App Architecture: Offline First - https://developer.android.com/topic/architecture/data-layer/offline-first
 
 ## Networking
 
