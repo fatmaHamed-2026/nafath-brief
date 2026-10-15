@@ -27,7 +27,9 @@ Resource: Android Mobile App Architecture: Offline First - https://developer.and
 
 ## Networking
 
+5G network slicing creates multiple logical networks on shared physical infrastructure, each tailored to specific latency, bandwidth, and reliability needs. A slice is identified by an S-NSSAI, which the core network uses to select the right slice for each device. A dedicated emergency slice gives responders isolated, prioritized capacity, so voice, video, and location traffic stays stable during congestion, while public traffic continues on separate slices.
 
+Resource: 3GPP TS 23.501, System architecture for the 5G System (5GS), http://www.3gpp.org/DynaReport/23501.htm
 ## Cybersecurity
 
 
